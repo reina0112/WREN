@@ -1,1 +1,1 @@
-# WREN-Low-Light-Image-Enhancement-Guided-By-Retinex-Theory
+# WREN: Low-Light-Image-Enhancement-Guided-By-Retinex-Theory
