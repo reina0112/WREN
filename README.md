@@ -1,11 +1,10 @@
-# WREN: Low-Light-Image-Enhancement-Guided-By-Retinex-Theory
-
+# WREN: Low Light Image Enhancement Using Retinex theory-based Double U-Net-like Structures
 <img src="img/Network.png" width=100%>
 
-This is a low-light image enhancement guided by Retinex theory (WREN). Our network achieves the state-of-the-art performance on both distortion-based and structural metrics when trained on a single training dataset.
+This is a low-light image enhancement guided by retinex theory (WREN). Our network achieves the state-of-the-art performance on both distortion-based and structural metrics when trained on a single training dataset.
 
 ### Usage in command line
-Git clone this repo, then do ```pip install -r requirements.txt.```.
+Git clone this repo, then do ```pip install -r requirements.txt```.
 
 ## Testing
 Download our model checkpoint from [Google Drive](https://drive.google.com/drive/folders/1ct4pMvvHBVzA2u0XKK-XZBXIKaDSQg1Y?usp=sharing). Put them in a folder. Our method can be quickly used with this command.
@@ -24,9 +23,9 @@ The following tables are the current state-of-the-art results for low light imag
 ### Experimental Results (Average PSNRs and SSIMs in several datasets)
 |Method   | PSNR  | SSIM  |
 |---|---|---|
-|Retinexformer ([Y Cai et al.](https://github.com/caiyuanhao1998/Retinexformer))   |17.022   | 0.742  |
-|RetinexNet ([C Wei et al.](https://github.com/weichen582/RetinexNet))   |15.105  | 0.790  |
-|SNR-Net ([X Xu et al.](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance))   |16.106  | 0.709  |
+|Retinexformer ([Y Cai et al.](https://github.com/caiyuanhao1998/Retinexformer), 2023)   |17.022   | 0.742  |
+|RetinexNet ([C Wei et al.](https://github.com/weichen582/RetinexNet), 2018)   |15.105  | 0.790  |
+|SNR-Net ([X Xu et al.](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance), 2022)   |16.106  | 0.709  |
 |WREN | **18.222**  | **0.814**  |
 
 ### Visualizing results
