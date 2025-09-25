@@ -36,3 +36,6 @@ The following tables are the current state-of-the-art results for low light imag
 | <img src="img/LIEQ/original/096.png" width="180"> | <img src="img/LIEQ/WREN/096.png" width="180"> | <img src="img/LIEQ/Retinexformer/096.png" width="168"> |<img src="img/LIEQ/Retinexnet/096_S.png" width="170"> |<img src="img/LIEQ/SNRNet/SNR.png" width="170"> |
 | <img src="img/NTIRE/original/309.png" width="180"> | <img src="img/NTIRE/WREN/309.png" width="180"> | <img src="img/NTIRE/Retinexformer/309.png" width="168"> |<img src="img/NTIRE/Retinexnet/309_S.png" width="170"> |<img src="img/NTIRE/SNRNet/SNR.png" width="170"> |
 | <img src="img/fiveK/original/1fiveK_low.png" width="180"> | <img src="img/fiveK/WREN/1fiveK_recon.png" width="180"> | <img src="img/fiveK/Retinexformer/1fiveK.png" width="168"> |<img src="img/fiveK/Retinexnet/1fiveK_S.jpg" width="170"> |<img src="img/fiveK/SNRNet/SNR.png" width="170"> |
+
+## Copyright
+Copyright (c) 2025 Reina Kaneko, Junya Hara, Hiroshi Higashi, and Yuichi Tanaka.
